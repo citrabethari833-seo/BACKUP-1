@@ -1,0 +1,133 @@
+Ultra detailed 1:1 square banner, luxury gambling promo, gold neon explosion theme, extremely sharp, 8K, cinematic glow, strict layout composition, all elements locked position.
+
+CANVAS STRUCTURE (DO NOT CHANGE POSITION, FIXED LAYOUT):
+
+TOP AREA:
+
+EXACT TOP CENTER: large curved text “ROKOKBET”
+Font: very thick rounded bold sans-serif, extra heavy weight, inflated/rounded edges
+Style: 3D gold metallic, strong bevel, inner gradient bright yellow → deep orange gold
+Effects: intense outer glow (yellow), thick drop shadow (black), soft reflection highlight
+Slight arc shape following top curve
+
+BACKGROUND:
+
+Full width city skyline at night with water reflection (warm golden tone)
+Buildings glowing yellow/orange
+Background blur slight (depth)
+Diagonal golden light streaks flowing left → right
+Subtle circular radial glow behind center
+
+CENTER HEXAGON AREA (STRICT POSITIONING):
+
+3 hexagons aligned horizontally across middle
+ALL hexagons have thick gold glowing borders + soft shadow
+
+LEFT HEXAGON (middle-left):
+
+dark blue betting interface UI with rows, buttons, red/blue percentage numbers
+
+CENTER HEXAGON (middle center):
+
+modern city skyline at dusk/night, purple-blue sky
+
+BOTTOM-LEFT HEXAGON (slightly below left hexagon):
+
+Sydney Opera House, bright daylight, blue water
+
+RIGHT SIDE CHARACTER (FIXED POSITION):
+
+Character placed EXACT right side vertically centered
+Anime semi-realistic girl
+Short bob hair, black → silver gradient, straight bangs
+Sunglasses on head
+Face forward, slight body angle
+Big bright blue eyes, glossy lips
+Outfit:
+black tight crop top with zipper (slightly open)
+black + yellow mini skirt with “ROKOKBET” text on waistband
+Strong golden rim light outline around body
+Skin smooth, soft glow
+High detail shading
+
+MAIN TEXT STACK (CENTER BOTTOM, EXACT ORDER & ALIGNMENT):
+
+LINE 1:
+“PLATFORM”
+
+metallic silver
+bold italic
+medium size
+strong shadow
+
+LINE 2:
+“SITUS TOTO TOGEL”
+
+VERY LARGE dominant text
+thick rounded bold font (same family as ROKOKBET but bigger)
+gold metallic gradient
+heavy bevel
+VERY strong yellow glow
+thick black shadow
+
+LINE 3:
+“ONLINE TERBARU”
+
+silver metallic
+bold
+slightly smaller than “PLATFORM”
+strong shadow
+
+LINE 4 (CENTERED BADGE STYLE):
+“2026”
+
+inside red metallic plate shape
+chrome/silver border
+glossy highlight
+strong glow
+
+BOTTOM TEXT:
+“BERGARANSI HINGGA 300%”
+
+handwritten brush font
+bright yellow
+strong glow
+slightly italic / dynamic angle
+
+EXTRA ELEMENTS:
+
+floating lottery balls (numbers 8 and 7 visible)
+glowing gold/orange balls with reflections
+motion blur effect
+light trails swirling across entire image
+spark particles scattered
+lens flare highlights
+
+LIGHTING:
+
+dominant gold/orange glow
+strong contrast
+bright highlights + deep shadows
+neon reflections on text and character
+
+TYPOGRAPHY DETAIL (IMPORTANT):
+
+font MUST be:
+very thick
+rounded edges
+bold heavy
+3D extruded
+strong bevel emboss
+NO thin fonts
+ALL text must have glow + shadow + depth
+
+RENDER QUALITY:
+
+ultra sharp
+HDR
+clean edges
+no blur on text
+high saturation gold tones
+
+NEGATIVE PROMPT:
+thin font, wrong layout, misplaced text, flat design, low glow, dull colors, bad anatomy, low detail, messy composition, incorrect positioning
