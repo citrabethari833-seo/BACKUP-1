@@ -1,0 +1,322 @@
+Buat poster ukuran 1080x1080, rasio 1:1, ultra HD, sangat tajam, detail tinggi, cinematic lighting, fantasy oriental casino theme, warna dominan biru gelap + emas menyala.
+
+Semua elemen harus simetris dan posisinya dikunci sesuai koordinat visual berikut.
+
+🟡 1. LOGO KIRI ATAS (POSISI FIX)
+Letakkan di pojok kiri atas dengan margin kecil dari tepi.
+
+Tulisan:
+
+ROKOKBET
+
+Font:
+
+Serif klasik tebal
+
+Huruf kapital semua
+
+Bold sangat tebal
+
+Metallic gold gradient
+
+Efek bevel emboss 3D
+
+Inner shadow gelap tipis
+
+Outer glow emas lembut
+
+Outline tipis gelap
+
+Ukuran besar tapi tidak melebihi lebar 1/3 frame.
+
+🔵 2. JUDUL ATAS TENGAH (CENTER ALIGN FIX)
+Tiga baris bertingkat tepat di tengah horizontal.
+
+Baris 1:
+Seller Resmi
+
+Font script tipis elegan
+
+Warna putih
+
+Glow lembut
+
+Sedikit miring
+
+Baris 2 (PALING BESAR):
+TOGEL ONLINE 4D
+
+Huruf kapital semua
+
+Font sans serif SANGAT TEBAL
+
+Warna putih solid
+
+Outline biru tebal
+
+Bevel 3D kuat
+
+Drop shadow gelap tebal
+
+Lebar hampir memenuhi frame
+
+Baris 3:
+SPECIAL DI ROKOKBET
+
+Font tebal kapital
+
+Kata ROKOKBET warna emas gradient
+
+Kata lainnya putih
+
+Outline biru
+
+Sedikit lebih kecil dari baris kedua
+
+Semua center align dan jarak antar baris rapat.
+
+🔵 3. BACKGROUND
+Background biru gelap gradasi navy ke electric blue.
+
+Tambahkan:
+
+Petir biru menyala di kiri dan kanan
+
+Partikel bintang kecil
+
+Glow cahaya biru di tengah
+
+Energy lightning mengitari karakter
+
+Kontras tinggi dan dramatis.
+
+👩 4. KARAKTER TENGAH (POSISI TEPAT DI TENGAH)
+Wanita setengah badan.
+
+Posisi:
+
+Membelakangi kamera
+
+Kepala menoleh ke kiri
+
+Wajah terlihat 70%
+
+Detail:
+
+Kulit halus glowing
+
+Rambut hitam messy bun
+
+Beberapa helai rambut jatuh
+
+Anting emas detail rumit
+
+Dress:
+
+Hitam satin
+
+Terbuka bagian punggung
+
+Tattoo:
+
+Detail tattoo (WAJIB sangat detail dan realistis):
+Full back tattoo Japanese Irezumi style traditional.
+Desain tattoo meliputi:
+- Naga Jepang (Ryū) besar memanjang dari bahu ke pinggang
+- Motif bunga sakura detail
+- Bunga peony (botan) khas Irezumi
+- Ombak Jepang bergaya ukiyo-e
+- Daun maple momiji
+- Awan angin klasik Jepang
+
+Lighting:
+
+Rim light emas dari kanan
+
+Rim light biru dari kiri
+
+Highlight lembut di bahu
+
+🐉 5. NAGA EMAS (DI BELAKANG KARAKTER)
+Posisi:
+
+Tepat di belakang kanan karakter
+
+Kepala naga dekat wajah karakter
+
+Tubuh melingkar
+
+Detail:
+
+Warna emas menyala
+
+Sisik tajam detail
+
+Mata glowing terang
+
+Aura api emas tipis
+
+Tambahkan simbol huruf oriental merah menyala di kiri dan kanan naga.
+
+🖥 6. LAYAR WEBSITE (DI BELAKANG KIRI KARAKTER)
+Posisi:
+
+Miring ke kiri belakang karakter
+
+Tidak menutup wajah
+
+Teks kecil di atas:
+ROKOKBET.com
+
+Dominan biru dan emas.
+
+🟦 7. PANEL BONUS KIRI (VERTIKAL RATA KIRI – FIXED STYLE)
+Tiga box tersusun vertikal sejajar kiri frame, jarak antar box sama rata, alignment kiri konsisten.
+
+🎨 STYLE BOX (WAJIB SAMA SEMUA)
+• Rounded rectangle tebal
+• 3D bevel emboss kuat
+• Background gradasi biru navy → royal blue glossy
+• Highlight mengkilap di bagian atas tengah
+• Inner glow biru muda
+• Outline emas metallic sangat tebal
+• Bevel emas timbul
+• Drop shadow lembut ke kanan bawah
+• Outer glow biru tipis
+
+🔶 HEADER ATAS BOX
+Tulisan kecil di bagian atas dalam ribbon emas:
+
+BONUS
+
+• Font kapital sangat tebal
+• Warna kuning emas gradient
+• Outline biru gelap tebal
+• Bevel 3D ringan
+• Ribbon emas metallic dengan ujung segitiga kanan kiri
+
+🔥 ANGKA PERSEN (PALING DOMINAN)
+• Ukuran sangat besar
+• Extra bold
+• Warna kuning emas gradient terang
+• Highlight putih tipis di atas angka
+• Outline biru gelap sangat tebal
+• Bevel emboss kuat
+• Drop shadow hitam lembut
+• Sedikit glow emas
+
+⚪ SUBTEXT (BAGIAN BAWAH)
+Background kapsul biru gelap glossy
+Outline emas tipis
+Bevel ringan
+
+Font putih kapital bold
+Drop shadow kecil
+
+📝 ISI PANEL KIRI
+BOX 1
+BONUS
+20%
+NEW MEMBER
+
+BOX 2
+BONUS
+10%
+CASHBACK SLOT
+
+BOX 3
+BONUS
+1%
+ROLLINGAN LIVE GAMES
+
+🟦 8. PANEL BONUS KANAN (VERTIKAL RATA KANAN – STYLE IDENTIK)
+Empat box sejajar kanan frame.
+Ukuran, warna, bevel, glow, shadow, ribbon, dan efek HARUS IDENTIK dengan panel kiri.
+
+📝 ISI PANEL KANAN
+BOX 1
+BONUS
+5%
+NEXT DEPOSIT
+
+BOX 2
+BONUS
+0,1%
+REFFERAL SLOT
+
+BOX 3
+BONUS
+1%
+ROLLINGAN SLOT GAMES
+
+BOX 4
+BONUS
+100%
+JP SABUNG AYAM
+
+💰 9. ELEMEN TAMBAHAN
+Koin emas beterbangan di kiri dan kanan
+
+Motion blur ringan
+
+Glow di tepi koin
+
+Icon mahkota merah emas kecil di kiri bawah tengah
+
+Bendera hitam tengkorak putih di kanan bawah karakter
+
+✨ 10. TEKS TENGAH BAWAH
+Game Super Lengkap
+
+Font script besar
+Putih
+Glow biru terang
+Drop shadow lembut
+
+Center align.
+
+🔘 11. TOMBOL KATEGORI
+Dua baris horizontal.
+
+Style:
+
+Hitam glossy
+
+Outline emas tebal
+
+Rounded rectangle
+
+Efek 3D
+
+Teks kuning bold kapital
+
+Baris 1:
+TOGEL | SLOT GAME | LIVE CASINO | SPORT
+
+Baris 2:
+SABUNG AYAM | TEMBAK IKAN | VIRTUAL
+
+🔴 12. BANNER PALING BAWAH
+Background merah glossy.
+
+Teks:
+
+ROKOKBET SITUS ONLINE TERBAIK DAN RESMI TERPERCAYA DI 2026, DENGAN PROVIDER TERLENGKAP. AYO BERGABUNG DAN MAINKAN SEKARANG
+
+Putih + kuning kombinasi
+Bold
+Kapital
+
+Tambahkan efek ombak putih dan cipratan air di bagian paling bawah.
+
+🎯 RENDER STYLE WAJIB
+Ultra detailed
+Sharp focus
+High contrast
+Premium gambling banner
+Fantasy illustration
+Clean typography
+Strong 3D bevel text
+Glowing effect
+Electric lighting
+Professional layout
