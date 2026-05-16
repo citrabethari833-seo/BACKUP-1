@@ -224,7 +224,7 @@ if (!isset($_SESSION[$session_key])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SEO_File</title>
+    <title>JKT-SEO</title>
     <style>
         body {
             font-family: Arial, sans-serif;
