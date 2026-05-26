@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>https://jurnal.appki.or.id/</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/index</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/about</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/issue/archive</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/about/submissions</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/issue/view/1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/about/editorialTeam</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/about/privacy</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/announcement</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/about/contact</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/search</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/user/register</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/login</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/article/view/3</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/article/view/3/2</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/article/view/9</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/article/view/9/3</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/article/view/8</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/article/view/8/1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/article/view/7</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/article/view/7/6</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/article/view/6</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/article/view/6/5</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/reviewer</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/focusscope</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/peer-review-procces</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/publication-ethics</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/authorguideline</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/authorfee</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/about/aboutThisPublishingSystem</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/login?source=%2Findex.php%2Fallama%2Fissue%2Fview%2F%26quot%3Bhttps%3A%2F%2Fstatcounter.com%2F%26quot%3B</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/login?source=%2Findex.php%2Fallama%2Fissue%2Fview%2F%26quot%3Bhttps%3A%2F%2Fstatcounter.com%2Fp13005748%2F%3Fguest%3D1%26quot%3B</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/login?source=https%3A%2F%2Fjurnal.appki.or.id%2Findex.php%2Fallama%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/login/lostPassword</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/user/register?source=</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/acm-sig-proceedings?submissionId=3&amp;publicationId=3&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/acs-nano?submissionId=3&amp;publicationId=3&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/apa?submissionId=3&amp;publicationId=3&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=3&amp;publicationId=3&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/chicago-author-date?submissionId=3&amp;publicationId=3&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/harvard-cite-them-right?submissionId=3&amp;publicationId=3&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/ieee?submissionId=3&amp;publicationId=3&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/modern-language-association?submissionId=3&amp;publicationId=3&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=3&amp;publicationId=3&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/vancouver?submissionId=3&amp;publicationId=3&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/ama?submissionId=3&amp;publicationId=3&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/search/search?query=Holistic%20approach%20%20Islamic%20Religious%20Education%20implementation</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/article/download/3/2/65</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/acm-sig-proceedings?submissionId=9&amp;publicationId=9&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/acs-nano?submissionId=9&amp;publicationId=9&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/apa?submissionId=9&amp;publicationId=9&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=9&amp;publicationId=9&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/chicago-author-date?submissionId=9&amp;publicationId=9&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/harvard-cite-them-right?submissionId=9&amp;publicationId=9&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/ieee?submissionId=9&amp;publicationId=9&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/modern-language-association?submissionId=9&amp;publicationId=9&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=9&amp;publicationId=9&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/vancouver?submissionId=9&amp;publicationId=9&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/ama?submissionId=9&amp;publicationId=9&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/search/search?query=Integrated%20Learning%20Strategy%20Motivation%20%20Students</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/article/download/9/3/70</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/acm-sig-proceedings?submissionId=8&amp;publicationId=8&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/acs-nano?submissionId=8&amp;publicationId=8&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/apa?submissionId=8&amp;publicationId=8&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=8&amp;publicationId=8&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/chicago-author-date?submissionId=8&amp;publicationId=8&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/harvard-cite-them-right?submissionId=8&amp;publicationId=8&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/ieee?submissionId=8&amp;publicationId=8&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/modern-language-association?submissionId=8&amp;publicationId=8&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=8&amp;publicationId=8&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/vancouver?submissionId=8&amp;publicationId=8&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/ama?submissionId=8&amp;publicationId=8&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/search/search?query=%20Implementasi%20%20%20Kurikulum%20%20Islam%20%20Pendidikan%20%20Sekolah%20Alam</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/article/download/8/1/69</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/acm-sig-proceedings?submissionId=7&amp;publicationId=7&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/acs-nano?submissionId=7&amp;publicationId=7&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/apa?submissionId=7&amp;publicationId=7&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=7&amp;publicationId=7&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/chicago-author-date?submissionId=7&amp;publicationId=7&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/harvard-cite-them-right?submissionId=7&amp;publicationId=7&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/ieee?submissionId=7&amp;publicationId=7&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/modern-language-association?submissionId=7&amp;publicationId=7&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=7&amp;publicationId=7&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/vancouver?submissionId=7&amp;publicationId=7&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/ama?submissionId=7&amp;publicationId=7&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/search/search?query=Holistic%20Integrative%20%20Islamic%20Religious%20Education%20in%20Schools</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/article/download/7/6/72</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/acm-sig-proceedings?submissionId=6&amp;publicationId=6&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/acs-nano?submissionId=6&amp;publicationId=6&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/apa?submissionId=6&amp;publicationId=6&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=6&amp;publicationId=6&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/chicago-author-date?submissionId=6&amp;publicationId=6&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/harvard-cite-them-right?submissionId=6&amp;publicationId=6&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/ieee?submissionId=6&amp;publicationId=6&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/modern-language-association?submissionId=6&amp;publicationId=6&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=6&amp;publicationId=6&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/vancouver?submissionId=6&amp;publicationId=6&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/citationstylelanguage/get/ama?submissionId=6&amp;publicationId=6&amp;issueId=1</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/search/search?query=Meaningful%20Learning%20%20Islamic%20Religious%20Education%20School</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/article/download/6/5/73</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/user/register?source=%2Findex.php%2Fallama%2Fissue%2Fview%2F%26quot%3Bhttps%3A%2F%2Fstatcounter.com%2F%26quot%3B</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/user/register?source=%2Findex.php%2Fallama%2Fissue%2Fview%2F%26quot%3Bhttps%3A%2F%2Fstatcounter.com%2Fp13005748%2F%3Fguest%3D1%26quot%3B</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnal.appki.or.id/index.php/allama/user/register?source=https%3A%2F%2Fjurnal.appki.or.id%2Findex.php%2Fallama%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2026-05-16T21:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
