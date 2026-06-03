@@ -1,0 +1,2521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>https://asiacall-acoj.org/</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/index</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/issue/view/8</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/issue/archive</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/about/editorialTeam</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/announcement</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/about/contact</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/about</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/about/submissions</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/form</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/about/privacy</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/search</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/user/register</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/login</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/91</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/91/59</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/110</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/110/60</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/126</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/126/61</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/information/readers</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/information/authors</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/information/librarians</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/about/aboutThisPublishingSystem</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/issue/view/7</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/issue/view/5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/issue/view/4</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/issue/view/3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/issue/view/2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/issue/view/1</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/login?source=https%3A%2F%2Fasiacall-acoj.org%2Findex.php%2Fjournal%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/login/lostPassword</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/user/register?source=</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acm-sig-proceedings?submissionId=91&amp;publicationId=91</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acs-nano?submissionId=91&amp;publicationId=91</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/apa?submissionId=91&amp;publicationId=91</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=91&amp;publicationId=91</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/chicago-author-date?submissionId=91&amp;publicationId=91</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/harvard-cite-them-right?submissionId=91&amp;publicationId=91</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/ieee?submissionId=91&amp;publicationId=91</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/modern-language-association?submissionId=91&amp;publicationId=91</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=91&amp;publicationId=91</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/vancouver?submissionId=91&amp;publicationId=91</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/68</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/8</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/48</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/105</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/44</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/98</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/26</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/39</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/89</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/91?articlesBySimilarityPage=2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/91?articlesBySimilarityPage=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/91?articlesBySimilarityPage=4</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/91?articlesBySimilarityPage=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/91?articlesBySimilarityPage=6</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/search/search?query=duolingo%20efl%20vocabulary%20students</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/download/91/59/1845</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acm-sig-proceedings?submissionId=110&amp;publicationId=110</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acs-nano?submissionId=110&amp;publicationId=110</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/apa?submissionId=110&amp;publicationId=110</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=110&amp;publicationId=110</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/chicago-author-date?submissionId=110&amp;publicationId=110</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/harvard-cite-them-right?submissionId=110&amp;publicationId=110</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/ieee?submissionId=110&amp;publicationId=110</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/modern-language-association?submissionId=110&amp;publicationId=110</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=110&amp;publicationId=110</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/vancouver?submissionId=110&amp;publicationId=110</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/121</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/49</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/50</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/59</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/60</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/69</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/78</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/87</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/110?articlesBySimilarityPage=2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/search/search?query=self-study%20impacts%20self-discipline%20feedback</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/download/110/60/1847</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acm-sig-proceedings?submissionId=126&amp;publicationId=126</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acs-nano?submissionId=126&amp;publicationId=126</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/apa?submissionId=126&amp;publicationId=126</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=126&amp;publicationId=126</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/chicago-author-date?submissionId=126&amp;publicationId=126</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/harvard-cite-them-right?submissionId=126&amp;publicationId=126</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/ieee?submissionId=126&amp;publicationId=126</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/modern-language-association?submissionId=126&amp;publicationId=126</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=126&amp;publicationId=126</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/vancouver?submissionId=126&amp;publicationId=126</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/95</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/24</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/123</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/28</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/41</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/126?articlesBySimilarityPage=2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/126?articlesBySimilarityPage=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/126?articlesBySimilarityPage=4</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/126?articlesBySimilarityPage=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/126?articlesBySimilarityPage=6</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/search/search?query=artificial%20intelligence%20academic%20integrity%20research%20writing</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/download/126/61/1849</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/index/login</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/77</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/77/42</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/79</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/79/43</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/100</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/100/44</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/102</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/102/45</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/95/46</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/109</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/109/47</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/103</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/103/48</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/87/49</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/81</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/81/50</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/89/51</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/98/52</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/56</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/56/53</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/75</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/75/54</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/57</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/57/55</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/105/57</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/121/58</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/123/56</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/issue/view/5/2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/71</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/71/37</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/37</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/37/38</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/69/39</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/78/40</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/65</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/65/41</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/issue/view/4/3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/53</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/53/30</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/41/31</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/44/32</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/64</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/64/33</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/9</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/9/34</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/67</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/67/35</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/68/36</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/54</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/54/29</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/28/18</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/40</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/40/19</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/39/20</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/24/21</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/42</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/42/22</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/48/23</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/46</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/46/24</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/50/25</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/59/26</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/49/27</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/60/28</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/issue/view/2/1</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/2/11</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/5/10</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/16</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/16/12</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/26/13</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/21</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/21/14</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/36</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/36/15</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/29</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/29/16</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/22</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/22/17</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/13</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/13/1</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/11</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/11/2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/10</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/10/3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/6</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/6/4</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/15</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/15/5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/3/6</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/12</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/12/7</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/8/8</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/user/register?source=https%3A%2F%2Fasiacall-acoj.org%2Findex.php%2Fjournal%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acm-sig-proceedings?submissionId=68&amp;publicationId=68</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acs-nano?submissionId=68&amp;publicationId=68</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/apa?submissionId=68&amp;publicationId=68</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=68&amp;publicationId=68</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/chicago-author-date?submissionId=68&amp;publicationId=68</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/harvard-cite-them-right?submissionId=68&amp;publicationId=68</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/ieee?submissionId=68&amp;publicationId=68</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/modern-language-association?submissionId=68&amp;publicationId=68</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=68&amp;publicationId=68</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/vancouver?submissionId=68&amp;publicationId=68</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/68?articlesBySimilarityPage=2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/68?articlesBySimilarityPage=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/search/search?query=corpus%20studies%20esl%20lexical%20clusters%20bnc</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acm-sig-proceedings?submissionId=3&amp;publicationId=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acs-nano?submissionId=3&amp;publicationId=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/apa?submissionId=3&amp;publicationId=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=3&amp;publicationId=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/chicago-author-date?submissionId=3&amp;publicationId=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/harvard-cite-them-right?submissionId=3&amp;publicationId=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/ieee?submissionId=3&amp;publicationId=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/modern-language-association?submissionId=3&amp;publicationId=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=3&amp;publicationId=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/vancouver?submissionId=3&amp;publicationId=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/3?articlesBySimilarityPage=2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/3?articlesBySimilarityPage=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/3?articlesBySimilarityPage=4</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/3?articlesBySimilarityPage=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/3?articlesBySimilarityPage=6</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/search/search?query=virtual%20classes%20blended%20learning%20difference-in-difference</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acm-sig-proceedings?submissionId=8&amp;publicationId=8</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acs-nano?submissionId=8&amp;publicationId=8</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/apa?submissionId=8&amp;publicationId=8</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=8&amp;publicationId=8</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/chicago-author-date?submissionId=8&amp;publicationId=8</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/harvard-cite-them-right?submissionId=8&amp;publicationId=8</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/ieee?submissionId=8&amp;publicationId=8</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/modern-language-association?submissionId=8&amp;publicationId=8</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=8&amp;publicationId=8</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/vancouver?submissionId=8&amp;publicationId=8</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/8?articlesBySimilarityPage=2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/8?articlesBySimilarityPage=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/8?articlesBySimilarityPage=4</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/8?articlesBySimilarityPage=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/8?articlesBySimilarityPage=6</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/search/search?query=digital%20games%20dgs%20teachers%20perceptions%20students%20non-english-majored%20vocabulary</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acm-sig-proceedings?submissionId=48&amp;publicationId=48</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acs-nano?submissionId=48&amp;publicationId=48</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/apa?submissionId=48&amp;publicationId=48</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=48&amp;publicationId=48</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/chicago-author-date?submissionId=48&amp;publicationId=48</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/harvard-cite-them-right?submissionId=48&amp;publicationId=48</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/ieee?submissionId=48&amp;publicationId=48</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/modern-language-association?submissionId=48&amp;publicationId=48</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=48&amp;publicationId=48</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/vancouver?submissionId=48&amp;publicationId=48</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/48?articlesBySimilarityPage=2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/48?articlesBySimilarityPage=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/48?articlesBySimilarityPage=4</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/48?articlesBySimilarityPage=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/48?articlesBySimilarityPage=6</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/search/search?query=vocabulary%20development%20filipino%20learning%20strategy%20word%20mapping</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acm-sig-proceedings?submissionId=105&amp;publicationId=105</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acs-nano?submissionId=105&amp;publicationId=105</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/apa?submissionId=105&amp;publicationId=105</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=105&amp;publicationId=105</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/chicago-author-date?submissionId=105&amp;publicationId=105</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/harvard-cite-them-right?submissionId=105&amp;publicationId=105</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/ieee?submissionId=105&amp;publicationId=105</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/modern-language-association?submissionId=105&amp;publicationId=105</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=105&amp;publicationId=105</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/vancouver?submissionId=105&amp;publicationId=105</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/105?articlesBySimilarityPage=2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/105?articlesBySimilarityPage=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/105?articlesBySimilarityPage=4</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/105?articlesBySimilarityPage=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/105?articlesBySimilarityPage=6</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/search/search?query=chatgpt%20voice%20willingness%20communicate%20non-majored%20students</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acm-sig-proceedings?submissionId=44&amp;publicationId=44</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acs-nano?submissionId=44&amp;publicationId=44</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/apa?submissionId=44&amp;publicationId=44</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=44&amp;publicationId=44</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/chicago-author-date?submissionId=44&amp;publicationId=44</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/harvard-cite-them-right?submissionId=44&amp;publicationId=44</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/ieee?submissionId=44&amp;publicationId=44</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/modern-language-association?submissionId=44&amp;publicationId=44</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=44&amp;publicationId=44</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/vancouver?submissionId=44&amp;publicationId=44</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/44?articlesBySimilarityPage=2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/44?articlesBySimilarityPage=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/44?articlesBySimilarityPage=4</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/44?articlesBySimilarityPage=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/44?articlesBySimilarityPage=6</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/search/search?query=ai-assistant%20tool%20vocabulary%20learning%20secondary%20school%20students%20personal%20experience%20perceptions</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acm-sig-proceedings?submissionId=98&amp;publicationId=98</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acs-nano?submissionId=98&amp;publicationId=98</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/apa?submissionId=98&amp;publicationId=98</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=98&amp;publicationId=98</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/chicago-author-date?submissionId=98&amp;publicationId=98</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/harvard-cite-them-right?submissionId=98&amp;publicationId=98</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/ieee?submissionId=98&amp;publicationId=98</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/modern-language-association?submissionId=98&amp;publicationId=98</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=98&amp;publicationId=98</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/vancouver?submissionId=98&amp;publicationId=98</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/98?articlesBySimilarityPage=2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/98?articlesBySimilarityPage=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/98?articlesBySimilarityPage=4</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/98?articlesBySimilarityPage=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/98?articlesBySimilarityPage=6</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/search/search?query=chat-gpt%20mixed%20method%20scaffolding%20vocabulary%20learning</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acm-sig-proceedings?submissionId=26&amp;publicationId=26</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acs-nano?submissionId=26&amp;publicationId=26</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/apa?submissionId=26&amp;publicationId=26</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=26&amp;publicationId=26</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/chicago-author-date?submissionId=26&amp;publicationId=26</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/harvard-cite-them-right?submissionId=26&amp;publicationId=26</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/ieee?submissionId=26&amp;publicationId=26</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/modern-language-association?submissionId=26&amp;publicationId=26</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=26&amp;publicationId=26</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/vancouver?submissionId=26&amp;publicationId=26</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/26?articlesBySimilarityPage=2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/26?articlesBySimilarityPage=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/26?articlesBySimilarityPage=4</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/26?articlesBySimilarityPage=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/26?articlesBySimilarityPage=6</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/search/search?query=blended%20learning%20students%E2%80%99%20perceptions%20attitudes</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acm-sig-proceedings?submissionId=39&amp;publicationId=39</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acs-nano?submissionId=39&amp;publicationId=39</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/apa?submissionId=39&amp;publicationId=39</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=39&amp;publicationId=39</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/chicago-author-date?submissionId=39&amp;publicationId=39</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/harvard-cite-them-right?submissionId=39&amp;publicationId=39</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/ieee?submissionId=39&amp;publicationId=39</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/modern-language-association?submissionId=39&amp;publicationId=39</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=39&amp;publicationId=39</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/vancouver?submissionId=39&amp;publicationId=39</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/39?articlesBySimilarityPage=2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/39?articlesBySimilarityPage=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/39?articlesBySimilarityPage=4</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/39?articlesBySimilarityPage=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/39?articlesBySimilarityPage=6</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/search/search?query=efl%20tertiary%20students%20ease%20portable%20devices%20mobile%20learning%20mall%20perceptions</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acm-sig-proceedings?submissionId=89&amp;publicationId=89</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acs-nano?submissionId=89&amp;publicationId=89</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/apa?submissionId=89&amp;publicationId=89</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=89&amp;publicationId=89</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/chicago-author-date?submissionId=89&amp;publicationId=89</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/harvard-cite-them-right?submissionId=89&amp;publicationId=89</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/ieee?submissionId=89&amp;publicationId=89</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/modern-language-association?submissionId=89&amp;publicationId=89</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=89&amp;publicationId=89</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/vancouver?submissionId=89&amp;publicationId=89</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/89?articlesBySimilarityPage=2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/89?articlesBySimilarityPage=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/89?articlesBySimilarityPage=4</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/89?articlesBySimilarityPage=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/89?articlesBySimilarityPage=6</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/search/search?query=chatgpt%20personalized%20learning%20writing</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/91?articlesBySimilarityPage=1</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acm-sig-proceedings?submissionId=121&amp;publicationId=121</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acs-nano?submissionId=121&amp;publicationId=121</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/apa?submissionId=121&amp;publicationId=121</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=121&amp;publicationId=121</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/chicago-author-date?submissionId=121&amp;publicationId=121</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/harvard-cite-them-right?submissionId=121&amp;publicationId=121</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/ieee?submissionId=121&amp;publicationId=121</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/modern-language-association?submissionId=121&amp;publicationId=121</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=121&amp;publicationId=121</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/vancouver?submissionId=121&amp;publicationId=121</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/121?articlesBySimilarityPage=2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/121?articlesBySimilarityPage=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/search/search?query=ai-powered%20tools%20consistency%20essay%20assessment%20rubrics%20band%20descriptors</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acm-sig-proceedings?submissionId=5&amp;publicationId=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acs-nano?submissionId=5&amp;publicationId=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/apa?submissionId=5&amp;publicationId=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=5&amp;publicationId=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/chicago-author-date?submissionId=5&amp;publicationId=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/harvard-cite-them-right?submissionId=5&amp;publicationId=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/ieee?submissionId=5&amp;publicationId=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/modern-language-association?submissionId=5&amp;publicationId=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=5&amp;publicationId=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/vancouver?submissionId=5&amp;publicationId=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/5?articlesBySimilarityPage=2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/5?articlesBySimilarityPage=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/5?articlesBySimilarityPage=4</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/5?articlesBySimilarityPage=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/search/search?query=mall%20listening%20skill%20mobile%20apps%20lyrics%20training%20esl%20learners</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acm-sig-proceedings?submissionId=49&amp;publicationId=49</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acs-nano?submissionId=49&amp;publicationId=49</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/apa?submissionId=49&amp;publicationId=49</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=49&amp;publicationId=49</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/chicago-author-date?submissionId=49&amp;publicationId=49</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/harvard-cite-them-right?submissionId=49&amp;publicationId=49</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/ieee?submissionId=49&amp;publicationId=49</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/modern-language-association?submissionId=49&amp;publicationId=49</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=49&amp;publicationId=49</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/vancouver?submissionId=49&amp;publicationId=49</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/49?articlesBySimilarityPage=2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/49?articlesBySimilarityPage=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/49?articlesBySimilarityPage=4</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/49?articlesBySimilarityPage=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/49?articlesBySimilarityPage=6</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/search/search?query=artificial%20intelligence%20chatgpt%20language%20assessment%20writing%20skills%20teaching%20qualitative%20research</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acm-sig-proceedings?submissionId=50&amp;publicationId=50</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acs-nano?submissionId=50&amp;publicationId=50</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/apa?submissionId=50&amp;publicationId=50</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=50&amp;publicationId=50</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/chicago-author-date?submissionId=50&amp;publicationId=50</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/harvard-cite-them-right?submissionId=50&amp;publicationId=50</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/ieee?submissionId=50&amp;publicationId=50</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/modern-language-association?submissionId=50&amp;publicationId=50</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=50&amp;publicationId=50</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/vancouver?submissionId=50&amp;publicationId=50</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/50?articlesBySimilarityPage=2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/50?articlesBySimilarityPage=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/50?articlesBySimilarityPage=4</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/50?articlesBySimilarityPage=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/50?articlesBySimilarityPage=6</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/search/search?query=learner%20autonomy%20higher%20education%20dimensions%20business%20english%20program</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acm-sig-proceedings?submissionId=59&amp;publicationId=59</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acs-nano?submissionId=59&amp;publicationId=59</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/apa?submissionId=59&amp;publicationId=59</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=59&amp;publicationId=59</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/chicago-author-date?submissionId=59&amp;publicationId=59</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/harvard-cite-them-right?submissionId=59&amp;publicationId=59</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/ieee?submissionId=59&amp;publicationId=59</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/modern-language-association?submissionId=59&amp;publicationId=59</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=59&amp;publicationId=59</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/vancouver?submissionId=59&amp;publicationId=59</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/59?articlesBySimilarityPage=2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/59?articlesBySimilarityPage=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/59?articlesBySimilarityPage=4</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/59?articlesBySimilarityPage=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/59?articlesBySimilarityPage=6</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/search/search?query=chatbot%20vocational%20education%20english%20pronunciation%20quasi-experimental%20level</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acm-sig-proceedings?submissionId=60&amp;publicationId=60</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acs-nano?submissionId=60&amp;publicationId=60</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/apa?submissionId=60&amp;publicationId=60</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=60&amp;publicationId=60</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/chicago-author-date?submissionId=60&amp;publicationId=60</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/harvard-cite-them-right?submissionId=60&amp;publicationId=60</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/ieee?submissionId=60&amp;publicationId=60</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/modern-language-association?submissionId=60&amp;publicationId=60</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=60&amp;publicationId=60</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/vancouver?submissionId=60&amp;publicationId=60</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/60?articlesBySimilarityPage=2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/search/search?query=intonation%20podcasts%20integration%20non-english-majored%20freshmen%20perspectives</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acm-sig-proceedings?submissionId=69&amp;publicationId=69</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acs-nano?submissionId=69&amp;publicationId=69</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/apa?submissionId=69&amp;publicationId=69</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=69&amp;publicationId=69</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/chicago-author-date?submissionId=69&amp;publicationId=69</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/harvard-cite-them-right?submissionId=69&amp;publicationId=69</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/ieee?submissionId=69&amp;publicationId=69</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/modern-language-association?submissionId=69&amp;publicationId=69</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=69&amp;publicationId=69</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/vancouver?submissionId=69&amp;publicationId=69</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/69?articlesBySimilarityPage=2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/69?articlesBySimilarityPage=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/69?articlesBySimilarityPage=4</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/search/search?query=ai-powered%20writing%20tools%20artificial%20intelligence%20tertiary%20standards%20practices</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acm-sig-proceedings?submissionId=78&amp;publicationId=78</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acs-nano?submissionId=78&amp;publicationId=78</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/apa?submissionId=78&amp;publicationId=78</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=78&amp;publicationId=78</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/chicago-author-date?submissionId=78&amp;publicationId=78</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/harvard-cite-them-right?submissionId=78&amp;publicationId=78</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/ieee?submissionId=78&amp;publicationId=78</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/modern-language-association?submissionId=78&amp;publicationId=78</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=78&amp;publicationId=78</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/vancouver?submissionId=78&amp;publicationId=78</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/78?articlesBySimilarityPage=2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/78?articlesBySimilarityPage=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/78?articlesBySimilarityPage=4</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/78?articlesBySimilarityPage=5</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/78?articlesBySimilarityPage=6</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/search/search?query=chatgpt%20artificial%20intelligence%20english%20paragraph%20writing%20teaching%20learning%20stakeholders</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acm-sig-proceedings?submissionId=87&amp;publicationId=87</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acs-nano?submissionId=87&amp;publicationId=87</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/apa?submissionId=87&amp;publicationId=87</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=87&amp;publicationId=87</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/chicago-author-date?submissionId=87&amp;publicationId=87</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/harvard-cite-them-right?submissionId=87&amp;publicationId=87</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/ieee?submissionId=87&amp;publicationId=87</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/modern-language-association?submissionId=87&amp;publicationId=87</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=87&amp;publicationId=87</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/vancouver?submissionId=87&amp;publicationId=87</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/87?articlesBySimilarityPage=2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/search/search?query=learner%20autonomy%20perception%20wordwall</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/110?articlesBySimilarityPage=1</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acm-sig-proceedings?submissionId=95&amp;publicationId=95</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/acs-nano?submissionId=95&amp;publicationId=95</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/apa?submissionId=95&amp;publicationId=95</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=95&amp;publicationId=95</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/chicago-author-date?submissionId=95&amp;publicationId=95</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/harvard-cite-them-right?submissionId=95&amp;publicationId=95</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/ieee?submissionId=95&amp;publicationId=95</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/modern-language-association?submissionId=95&amp;publicationId=95</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=95&amp;publicationId=95</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/citationstylelanguage/get/vancouver?submissionId=95&amp;publicationId=95</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/95?articlesBySimilarityPage=2</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://asiacall-acoj.org/index.php/journal/article/view/95?articlesBySimilarityPage=3</loc>
+  <lastmod>2026-05-14T18:29:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
