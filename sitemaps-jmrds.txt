@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://jmrds.org</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/index</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/about</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/aims_and_scope</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/about/editorialMasthead</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/advisory_board</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/reviewer</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/editorial_board</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/polices_and_guidlines</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/guidelines_for_authors</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/manuscript_preparation</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/submit_manuscript</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/Plagiarism_Policy</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/open_access_policy</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/publication_policy</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/self_archiviing_policy</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/repository_policy</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/reviewer_policy</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/copyright_policy</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/about/privacy</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/disclaimer</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/issue/view/1</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/issue/archive</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/about/contact</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/search</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/user/register</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/login</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/article/view/2</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/article/view/2/1</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/article/view/3</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/article/view/3/2</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/article/view/4</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/article/view/4/3</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/article/view/5</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/article/view/5/4</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/article/view/6</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/article/view/6/5</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/information/readers</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/information/authors</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/information/librarians</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/about/aboutThisPublishingSystem</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/about/editorialHistory</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/login?source=https%3A%2F%2Fjmrds.org%2Findex.php%2Ffiles%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/login/lostPassword</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/user/register?source=</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/article/download/2/1/4</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/article/download/3/2/6</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/article/download/4/3/8</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/article/download/5/4/10</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jmrds.org/index.php/files/article/download/6/5/12</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url><url>
+  <loc>https://jmrds.org/index.php/files/user/register?source=https%3A%2F%2Fjmrds.org%2Findex.php%2Ffiles%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2026-06-15T07:57:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
