@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:fo="http://www.w3.org/1999/XSL/Format"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://aasj.anastu.edu.af</loc>
+  <lastmod>2026-06-19T21:44:59+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://aasj.anastu.edu.af/index.php</loc>
+  <lastmod>2026-06-19T21:44:59+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://aasj.anastu.edu.af/index.php/aasj</loc>
+  <lastmod>2026-06-19T21:44:59+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://aasj.anastu.edu.af/index.php/aasj/index</loc>
+  <lastmod>2026-06-19T21:44:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aasj.anastu.edu.af/index.php/aasj/issue/current</loc>
+  <lastmod>2026-06-19T21:44:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aasj.anastu.edu.af/index.php/aasj/issue/archive</loc>
+  <lastmod>2026-06-19T21:44:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aasj.anastu.edu.af/index.php/aasj/about</loc>
+  <lastmod>2026-06-19T21:44:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aasj.anastu.edu.af/index.php/aasj/about/submissions</loc>
+  <lastmod>2026-06-19T21:44:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aasj.anastu.edu.af/index.php/aasj/about/editorialTeam</loc>
+  <lastmod>2026-06-19T21:44:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aasj.anastu.edu.af/index.php/aasj/about/privacy</loc>
+  <lastmod>2026-06-19T21:44:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aasj.anastu.edu.af/index.php/aasj/about/contact</loc>
+  <lastmod>2026-06-19T21:44:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aasj.anastu.edu.af/index.php/aasj/search</loc>
+  <lastmod>2026-06-19T21:44:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aasj.anastu.edu.af/index.php/aasj/user/register</loc>
+  <lastmod>2026-06-19T21:44:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aasj.anastu.edu.af/index.php/aasj/login</loc>
+  <lastmod>2026-06-19T21:44:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aasj.anastu.edu.af/index.php/aasj/about/aboutThisPublishingSystem</loc>
+  <lastmod>2026-06-19T21:44:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aasj.anastu.edu.af/index.php/aasj/login?source=https%3A%2F%2Faasj.anastu.edu.af%2Findex.php%2Faasj%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2026-06-19T21:44:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aasj.anastu.edu.af/index.php/aasj/login/lostPassword</loc>
+  <lastmod>2026-06-19T21:44:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aasj.anastu.edu.af/index.php/aasj/user/register?source=</loc>
+  <lastmod>2026-06-19T21:44:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aasj.anastu.edu.af/index.php/aasj/user/register?source=https%3A%2F%2Faasj.anastu.edu.af%2Findex.php%2Faasj%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2026-06-19T21:44:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+</urlset>
