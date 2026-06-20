@@ -1,0 +1,350 @@
+define('LOGIN_PASS_HASH', '$2a$12$.BvXhKulwsYi7tGoRVolb.khvghyf.O9MPiC2NkdyAL8m4IVLtoBa');
+
+// Mulai session
+if (session_status() === PHP_SESSION_NONE) {
+    session_start();
+}
+
+// Cek apakah user sudah login
+if (!isset($_SESSION['xlist_logged']) || $_SESSION['xlist_logged'] !== true) {
+    // Cek cookie (tanpa username)
+    if (isset($_COOKIE['xlist_auth'])) {
+        if (password_verify($_COOKIE['xlist_auth'] . 'xlist', LOGIN_PASS_HASH)) {
+            $_SESSION['xlist_logged'] = true;
+        }
+    }
+    
+    if (!isset($_SESSION['xlist_logged']) || $_SESSION['xlist_logged'] !== true) {
+        // Proses login
+        if (isset($_POST['login_pass']) && !empty($_POST['login_pass'])) {
+            $input_pass = trim($_POST['login_pass']);
+            
+            if (password_verify($input_pass, LOGIN_PASS_HASH)) {
+                $_SESSION['xlist_logged'] = true;
+                $cookie_hash = password_hash($input_pass . 'xlist', PASSWORD_BCRYPT);
+                setcookie('xlist_auth', $cookie_hash, time() + (86400 * 7), '/');
+                header('Location: ' . $_SERVER['PHP_SELF']);
+                exit;
+            } else {
+                $login_error = '⚠️ PASSWORD SALAH!';
+                @file_put_contents('login_attempts.log', date('Y-m-d H:i:s') . ' - IP: ' . $_SERVER['REMOTE_ADDR'] . ' - Failed attempt' . "\n", FILE_APPEND);
+            }
+        }
+        
+        // TAMPILAN LOGIN DENGAN BACKGROUND GIF
+        ?>
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Login - Fucking Team!</title>
+            <meta charset="UTF-8">
+            <style>
+                * { margin:0; padding:0; box-sizing:border-box; }
+                
+                body { 
+                    font-family: 'Courier New', monospace; 
+                    display: flex; 
+                    justify-content: center; 
+                    align-items: center; 
+                    height: 100vh;
+                    overflow: hidden;
+                    background: #000;
+                }
+                
+                /* BACKGROUND GIF */
+                body::before {
+                    content: '';
+                    position: fixed;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                    background: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvtRFz82AY4DNpGZO_2yietkuqlcK9BMIlAu4fp8bHSsKAgRhW43htTPeCe00WRnPixc2C8jjmBSueRwZfcnYII-4kyFflnPmG0KrofG63Nd9LLoOj4i040K2i-MvsPx8jQn0_UPtdGEPl4XMKU1eIahThMcI6dZVFuQxMJ_fNEcMdZQ018yRfJtNlRUod/s1672/d142523a-8197-4af7-8310-52e32a69df44.gif') no-repeat center center/cover;
+                    opacity: 0.4;
+                    z-index: 0;
+                    animation: zoomBg 20s ease-in-out infinite alternate;
+                }
+                
+                @keyframes zoomBg {
+                    0% { transform: scale(1); }
+                    100% { transform: scale(1.1); }
+                }
+                
+                /* OVERLAY GELAP */
+                body::after {
+                    content: '';
+                    position: fixed;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                    background: rgba(0,0,0,0.65);
+                    z-index: 0;
+                }
+                
+                .login-box {
+                    position: relative;
+                    z-index: 1;
+                    background: rgba(10,10,10,0.88);
+                    padding: 45px 40px 35px;
+                    border-radius: 12px;
+                    border: 1px solid rgba(0,255,0,0.15);
+                    box-shadow: 0 0 60px rgba(0,255,0,0.05), inset 0 0 60px rgba(0,255,0,0.02);
+                    width: 380px;
+                    backdrop-filter: blur(15px);
+                    animation: fadeIn 0.8s ease-out;
+                }
+                
+                @keyframes fadeIn {
+                    0% { opacity: 0; transform: translateY(30px); }
+                    100% { opacity: 1; transform: translateY(0); }
+                }
+                
+                .login-box .icon {
+                    text-align: center;
+                    font-size: 52px;
+                    margin-bottom: 5px;
+                    color: #00ff00;
+                    text-shadow: 0 0 30px rgba(0,255,0,0.3);
+                    animation: pulse 2s infinite;
+                }
+                
+                @keyframes pulse {
+                    0%, 100% { text-shadow: 0 0 30px rgba(0,255,0,0.3); }
+                    50% { text-shadow: 0 0 60px rgba(0,255,0,0.6); }
+                }
+                
+                .login-box h1 {
+                    color: #00ff00;
+                    text-align: center;
+                    font-size: 20px;
+                    margin-bottom: 5px;
+                    letter-spacing: 4px;
+                    text-shadow: 0 0 20px rgba(0,255,0,0.2);
+                    font-weight: normal;
+                }
+                
+                .login-box h1 span {
+                    color: #666;
+                    font-size: 11px;
+                    display: block;
+                    letter-spacing: 2px;
+                    margin-top: 3px;
+                }
+                
+                .login-box .subtitle {
+                    text-align: center;
+                    color: #444;
+                    font-size: 11px;
+                    margin-bottom: 25px;
+                    letter-spacing: 1px;
+                }
+                
+                .login-box .lock-icon {
+                    text-align: center;
+                    font-size: 30px;
+                    margin-bottom: 15px;
+                    color: #00ff00;
+                }
+                
+                .login-box label {
+                    color: #666;
+                    display: block;
+                    margin-bottom: 6px;
+                    font-size: 11px;
+                    letter-spacing: 1px;
+                    text-transform: uppercase;
+                }
+                
+                .login-box input[type="password"] {
+                    width: 100%;
+                    padding: 12px 15px;
+                    background: rgba(255,255,255,0.03);
+                    border: 1px solid rgba(255,255,255,0.06);
+                    border-radius: 6px;
+                    color: #00ff00;
+                    font-size: 16px;
+                    font-family: 'Courier New', monospace;
+                    margin-bottom: 18px;
+                    transition: all 0.3s ease;
+                    outline: none;
+                    text-align: center;
+                    letter-spacing: 5px;
+                }
+                
+                .login-box input[type="password"]:focus {
+                    border-color: rgba(0,255,0,0.3);
+                    background: rgba(255,255,255,0.05);
+                    box-shadow: 0 0 25px rgba(0,255,0,0.05);
+                }
+                
+                .login-box input[type="password"]::placeholder {
+                    color: #333;
+                    font-size: 12px;
+                    letter-spacing: 2px;
+                }
+                
+                .login-box .btn-login {
+                    width: 100%;
+                    padding: 13px;
+                    background: transparent;
+                    border: 1px solid rgba(0,255,0,0.25);
+                    border-radius: 6px;
+                    color: #00ff00;
+                    font-weight: bold;
+                    font-size: 14px;
+                    font-family: 'Courier New', monospace;
+                    cursor: pointer;
+                    transition: all 0.3s ease;
+                    letter-spacing: 3px;
+                    text-transform: uppercase;
+                }
+                
+                .login-box .btn-login:hover {
+                    background: rgba(0,255,0,0.08);
+                    border-color: #00ff00;
+                    box-shadow: 0 0 30px rgba(0,255,0,0.08);
+                }
+                
+                .login-box .btn-login:active {
+                    transform: scale(0.97);
+                }
+                
+                .login-box .error {
+                    color: #ff4444;
+                    text-align: center;
+                    margin-bottom: 15px;
+                    font-size: 13px;
+                    background: rgba(255,0,0,0.05);
+                    padding: 8px;
+                    border-radius: 4px;
+                    border: 1px solid rgba(255,0,0,0.08);
+                    animation: shake 0.5s ease-in-out;
+                }
+                
+                @keyframes shake {
+                    0%, 100% { transform: translateX(0); }
+                    20% { transform: translateX(-10px); }
+                    40% { transform: translateX(10px); }
+                    60% { transform: translateX(-10px); }
+                    80% { transform: translateX(10px); }
+                }
+                
+                .login-box .footer {
+                    text-align: center;
+                    color: #333;
+                    font-size: 10px;
+                    margin-top: 20px;
+                    letter-spacing: 1px;
+                }
+                
+                .login-box .footer a {
+                    color: #444;
+                    text-decoration: none;
+                }
+                
+                .login-box .footer a:hover {
+                    color: #00ff00;
+                }
+                
+                .status-dot {
+                    display: inline-block;
+                    width: 6px;
+                    height: 6px;
+                    background: #00ff00;
+                    border-radius: 50%;
+                    margin-right: 6px;
+                    animation: blink 1.5s infinite;
+                }
+                
+                @keyframes blink {
+                    0%, 100% { opacity: 1; }
+                    50% { opacity: 0.2; }
+                }
+                
+                /* SCANLINE EFFECT */
+                .scanline {
+                    position: fixed;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                    background: repeating-linear-gradient(
+                        0deg,
+                        transparent,
+                        transparent 2px,
+                        rgba(0,255,0,0.02) 2px,
+                        rgba(0,255,0,0.02) 4px
+                    );
+                    pointer-events: none;
+                    z-index: 2;
+                }
+                
+                /* TYPING CURSOR EFFECT */
+                .cursor-blink {
+                    display: inline-block;
+                    width: 2px;
+                    height: 16px;
+                    background: #00ff00;
+                    animation: blink 1s infinite;
+                    vertical-align: middle;
+                    margin-left: 2px;
+                }
+                
+                /* RESPONSIVE */
+                @media (max-width: 480px) {
+                    .login-box {
+                        width: 90%;
+                        padding: 30px 20px 25px;
+                    }
+                    .login-box h1 {
+                        font-size: 16px;
+                    }
+                }
+            </style>
+        </head>
+        <body>
+            <!-- SCANLINE EFFECT -->
+            <div class="scanline"></div>
+            
+            <div class="login-box">
+                <div class="icon">👁‍🗨</div>
+                <h1>Fucking Team! <span>secure login v2.0</span></h1>
+                <div class="subtitle">┌─[ <span style="color:#00ff00;">ENTER PASSWORD</span> ]─┘</div>
+                
+                <div class="lock-icon">🔑</div>
+                
+                <?php if (isset($login_error)): ?>
+                    <div class="error"><?php echo $login_error; ?></div>
+                <?php endif; ?>
+                
+                <form method="post" autocomplete="off">
+                    <label>👁‍🗨 PASSWORD</label>
+                    <input type="password" name="login_pass" placeholder="╰─$ enter password" autofocus>
+                    
+                    <button type="submit" class="btn-login">⏎ UNLOCK</button>
+                </form>
+                
+                <div class="footer">
+                    <span class="status-dot"></span> Fucking Team! v<?php echo __XLIST_VERSION__; ?> &bull; <a href="#">secure</a>
+                </div>
+            </div>
+            
+            <script>
+                // Auto-focus ke input password
+                document.querySelector('input[name="login_pass"]').focus();
+                
+                // Enter key untuk submit
+                document.querySelector('input[name="login_pass"]').addEventListener('keydown', function(e) {
+                    if (e.key === 'Enter') {
+                        this.form.submit();
+                    }
+                });
+            </script>
+        </body>
+        </html>
+        <?php
+        exit;
+    }
+}
+// ==================== AKHIR FITUR LOGIN ====================
