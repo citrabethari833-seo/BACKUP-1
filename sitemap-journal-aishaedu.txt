@@ -1,0 +1,1440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:fo="http://www.w3.org/1999/XSL/Format"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://journal.aishaedu.org/</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/index/index</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/index/user/register</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/index/login</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/issue/view/10</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/issue/view/2</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/pae</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/pae/issue/current</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/issue/view/13</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/issue/current</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/index/about/aboutThisPublishingSystem</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/about/privacy</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/about/privacy</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/pae/about/privacy</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/about/privacy</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/about/privacy</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/index/login?source=https%3A%2F%2Fjournal.aishaedu.org%2Findex.php%2Findex%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/index/login/lostPassword</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/index/user/register?source=</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/index</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/pae/index</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/about</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/publication</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/indexing</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/policy</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/scope</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/ethics</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/review</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/open</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/licensing</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/archiving</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/plagiarism</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/conflict</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/people</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/about/editorialTeam</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/reviewer</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/publisher</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/about/contact</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/issue</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/issue/archive</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/submit</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/about/submissions</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/guidlines</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/fee</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/announcement</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/search</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/user/register</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/login</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/45</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/45/41</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/gateway/plugin/WebFeedGatewayPlugin/atom</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/gateway/plugin/WebFeedGatewayPlugin/rss</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/information/readers</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/information/authors</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/information/librarians</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/about/aboutThisPublishingSystem</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/index</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/issue/archive</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/people</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/about/editorialTeam</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/reviewer</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/about/contact</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/about</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/about/submissions</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/search</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/user/register</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/login</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/article/view/22</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/article/view/22/24</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/article/view/23</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/article/view/23/22</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/article/view/6</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/article/view/6/6</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/article/view/7</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/article/view/7/7</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/article/view/19</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/article/view/19/19</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/article/view/20</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/article/view/20/20</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/article/view/21</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/article/view/21/21</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/information/readers</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/information/authors</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/information/librarians</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/about/aboutThisPublishingSystem</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/pae/about</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/pae/about/contact</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/pae/pendidikan</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/pae/hukum</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/pae/apidiladang</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/pae/sains</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/pae/biodiversitas</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/pae/search</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/pae/user/register</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/pae/login</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/pae/about/aboutThisPublishingSystem</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/pae/issue/archive</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/index</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/about</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/indexing</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/frequency</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/journal</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/focus</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/ethics</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/review</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/open</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/policy</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/archiving</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/plagiarism</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/conflict</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/people</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/about/editorialTeam</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/reviewer</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/publisher</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/about/contact</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/issue</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/issue/archive</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/submit</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/about/submissions</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/author</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/authorfee</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/notice</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/privacy</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/search</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/user/register</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/login</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/52</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/52/51</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/53</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/53/52</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/gateway/plugin/WebFeedGatewayPlugin/atom</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/gateway/plugin/WebFeedGatewayPlugin/rss</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/information/readers</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/information/authors</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/information/librarians</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/about/aboutThisPublishingSystem</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/index</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/about</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/frequency</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/indexing</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/people</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/about/editorialTeam</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/reviewer</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/about/contact</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/publisher</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/issue</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/issue/archive</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/submit</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/fee</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/author</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/about/submissions</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/search</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/user/register</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/login</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/information/readers</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/information/authors</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/information/librarians</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/about/aboutThisPublishingSystem</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/index/user/register?source=https%3A%2F%2Fjournal.aishaedu.org%2Findex.php%2Findex%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/issue/view/9</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/issue/view/8</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/issue/view/5</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/issue/view/4</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/issue/view/3</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/issue/view/1</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/login?source=https%3A%2F%2Fjournal.aishaedu.org%2Findex.php%2Fhjse%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/login/lostPassword</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/user/register?source=</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/login?source=https%3A%2F%2Fjournal.aishaedu.org%2Findex.php%2Fproc%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/login/lostPassword</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/user/register?source=</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/pae/login?source=https%3A%2F%2Fjournal.aishaedu.org%2Findex.php%2Fpae%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/pae/login/lostPassword</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/pae/user/register?source=</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/issue/view/6</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/issue/view/7</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/issue/view/11</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/issue/view/12</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/login?source=https%3A%2F%2Fjournal.aishaedu.org%2Findex.php%2Fkbjpm%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/login/lostPassword</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/user/register?source=</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/download/52/51/165</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/download/53/52/167</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/login?source=https%3A%2F%2Fjournal.aishaedu.org%2Findex.php%2Fjrie%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/login/lostPassword</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/user/register?source=</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/44</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/44/40</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/46</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/46/42</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/41</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/41/37</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/42</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/42/38</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/43</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/43/39</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/16</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/16/16</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/17</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/17/17</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/18</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/18/18</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/39</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/39/35</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/40</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/40/36</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/13</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/13/13</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/14</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/14/14</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/15</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/15/15</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/8</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/8/8</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/9</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/9/9</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/10</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/10/10</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/11</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/11/11</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/12</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/12/12</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/1</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/1/1</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/2</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/2/2</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/3</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/3/3</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/4</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/4/4</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/5</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/article/view/5/5</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/hjse/user/register?source=https%3A%2F%2Fjournal.aishaedu.org%2Findex.php%2Fhjse%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/proc/user/register?source=https%3A%2F%2Fjournal.aishaedu.org%2Findex.php%2Fproc%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/pae/user/register?source=https%3A%2F%2Fjournal.aishaedu.org%2Findex.php%2Fpae%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/24</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/24/25</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/25</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/25/26</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/26</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/26/27</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/27</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/27/28</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/28</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/28/29</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/29</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/29/30</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/30</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/30/31</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/31</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/31/32</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/32</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/32/33</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/33</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/33/34</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/34</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/34/43</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/35</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/35/44</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/36</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/36/45</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/37</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/37/46</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/38</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/38/47</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/49</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/49/48</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/50</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/50/49</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/51</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/view/51/50</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/user/register?source=https%3A%2F%2Fjournal.aishaedu.org%2Findex.php%2Fkbjpm%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/jrie/user/register?source=https%3A%2F%2Fjournal.aishaedu.org%2Findex.php%2Fjrie%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/download/34/43/144</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/download/35/44/146</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/download/36/45/148</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/download/37/46/150</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/download/38/47/152</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/download/49/48/157</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/download/50/49/159</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://journal.aishaedu.org/index.php/kbjpm/article/download/51/50/161</loc>
+  <lastmod>2026-06-21T17:49:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+
+</urlset>
